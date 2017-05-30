@@ -10,3 +10,4 @@ https://en.wikipedia.org/wiki/Essentialism#In_developmental_psychology
 https://en.wikipedia.org/wiki/Existence_precedes_essence
 https://en.wikipedia.org/wiki/Metaphysics
 https://en.wikipedia.org/wiki/Existentialism
+https://en.wikipedia.org/wiki/Empiricism
